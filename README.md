@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋🏿Hi, I'm Cristina John – QA Analyst | Manual Testing Enthusiast  
+## 👋🏿 Hi, I'm Cristina John – QA Analyst | Manual Testing Enthusiast  
 
 **Detail-oriented and dynamic QA Analyst** with experience in **manual testing, defect management, and quality control**. 
 
