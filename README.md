@@ -21,7 +21,7 @@
 
 💻 **Testing Tools:** JIRA | Postman  
 🔹 **Testing Skills:** Manual Testing | Regression Testing | User Acceptance Testing | Black Box Testing | Functional Testing
-🔹**Basic Programming:** HTML | CSS | Python | SQL | JavaScript  
+🔹 **Basic Programming:** HTML | CSS | Python | SQL | JavaScript  
 🔹 **Quality Assurance Models:** Agile | Waterfall | SDLC  
 🔹**Databases:** MySQL  
 🔹 **Professional Skills:** Analytical Thinking | Problem-Solving | Time Management  
