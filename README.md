@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Cristina John – QA Analyst | Manual Testing Enthusiast  
 
-🔍 **Detail-oriented and dynamic QA Analyst** with experience in **manual testing, defect management, and quality control**. 
+**Detail-oriented and dynamic QA Analyst** with experience in **manual testing, defect management, and quality control**. 
 
 🌱 Currently enhancing my skills through the **QA Engineering Bootcamp at TripleTen**, with a focus on software testing methodologies, bug tracking, and automation fundamentals. Passionate about ensuring software reliability and optimizing the user experience.  
 
