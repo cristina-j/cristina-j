@@ -32,7 +32,6 @@
 - Exploring **test automation fundamentals**  
 - Enhancing problem-solving skills for debugging software issues  
 <br></br>
-
 **Excited to grow in the QA field and contribute to high-quality software!** 
 
 📫 **Connect with Me**  
