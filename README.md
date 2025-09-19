@@ -30,8 +30,8 @@
 - Writing detailed **test cases and bug reports**  
 - Expanding knowledge of **API testing using Postman**  
 - Exploring **test automation fundamentals**  
-- Enhancing problem-solving skills for debugging software issues  
-<br></br>
+- Enhancing problem-solving skills for debugging software issues
+
 **Excited to grow in the QA field and contribute to high-quality software!** 
 
 📫 **Connect with Me**  
