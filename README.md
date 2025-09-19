@@ -33,12 +33,11 @@
 - Enhancing problem-solving skills for debugging software issues  
 <br></br>
 
+**Excited to grow in the QA field and contribute to high-quality software!** 
 
 📫 **Connect with Me**  
 📩 Email: cristinajohn60@gmail.com  
 💼 LinkedIn: [linkedin.com/in/cristinajohn](https://linkedin.com/in/cristinajohn)  
-
-**Excited to grow in the QA field and contribute to high-quality software!** 
 
 
 ## 🌐 Socials:
