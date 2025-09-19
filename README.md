@@ -7,12 +7,12 @@
 
 🔹 **What I Do**  
 
-✔ **Manual Testing** – Functional, Regression, Black Box, and UAT Testing  
-✔ **Test Case Design & Execution** – Creating structured test plans for various applications  
-✔ **Bug Tracking & Reporting** – Using **JIRA** to log and manage defects  
-✔ **API Testing Basics** – Validating REST APIs with **Postman**  
-✔ **Agile Testing** – Experience working in Agile/Scrum environments  
-✔ **Cross-Browser Testing** – Ensuring compatibility across different platforms  
+✔ **Manual Testing**: Functional, Regression, Black Box, and UAT Testing  
+✔ **Test Case Design & Execution**: Creating structured test plans for various applications  
+✔ **Bug Tracking & Reporting**: Using **JIRA** to log and manage defects  
+✔ **API Testing Basics**: Validating REST APIs with **Postman**  
+✔ **Agile Testing**: Experience working in Agile/Scrum environments  
+✔ **Cross-Browser Testing**: Ensuring compatibility across different platforms  
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
