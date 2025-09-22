@@ -15,13 +15,13 @@
 ✔ **Cross-Browser Testing**: Ensuring compatibility across different platforms  
 
 ### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 🚀 **Skills & Tools**  
 
 💻 **Testing Tools:** JIRA | Postman  
 🔹 **Testing Skills:** Manual Testing | Regression Testing | User Acceptance Testing | Black Box Testing | Functional Testing
-🔹 **Basic Programming:** HTML | CSS | Python | SQL | JavaScript  
+🔹 **Basic Programming:** HTML | CSS | Python | SQL  
 🔹 **Quality Assurance Models:** Agile | Waterfall | SDLC  
 🔹**Databases:** MySQL  
 🔹 **Professional Skills:** Analytical Thinking | Problem-Solving | Time Management  
