@@ -33,10 +33,10 @@ Analytical Thinking | Data Accuracy | Process Improvement | Communication | Time
 
 📓 **What I'm Learning**
 
-• Writing structured test cases and data validation queries
-• Applying analytics to assess process performance and reporting accuracy
-• Exploring automation and scripting fundamentals
-• Building SQL projects to demonstrate QA + data integration
+  • Writing structured test cases and data validation queries
+  • Applying analytics to assess process performance and reporting accuracy
+  • Exploring automation and scripting fundamentals
+  • Building SQL projects to demonstrate QA + data integration
 
 🚀 Excited to grow in operations, quality assurance, and data analytics—bridging technical precision with business efficiency.
 
