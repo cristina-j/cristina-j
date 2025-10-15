@@ -32,6 +32,7 @@
 Analytical Thinking | Data Accuracy | Process Improvement | Communication | Time Management | Collaboration
 
 📓 **What I'm Learning**
+
 • Writing structured test cases and data validation queries
 • Applying analytics to assess process performance and reporting accuracy
 • Exploring automation and scripting fundamentals
