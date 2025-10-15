@@ -7,14 +7,14 @@
 
 🔹 **What I Do**  
 
-✔ **Quality & Process Assurance**: Functional, Regression, and UAT Testing with a focus on workflow optimization
-✔ **Data Validation & Reporting**: Using SQL, Excel, and data cleaning methods to ensure accuracy and consistency
-✔ **Project Coordination**: Documenting processes, tracking deliverables, and collaborating across QA, development, and operations teams
-✔ **Continuous Improvement**: Identifying inefficiencies and implementing solutions to enhance productivity and product quality
-✔ **Test Case Design & Execution**: Creating structured test plans for various applications  
-✔ **Bug Tracking & Reporting**: Using **JIRA** to log and manage defects  
-✔ **API Testing Basics**: Validating REST APIs with **Postman**  
-✔ **Agile Testing**: Experience working in Agile/Scrum environments  
+- **Quality & Process Assurance**: Functional, Regression, and UAT Testing with a focus on workflow optimization
+- **Data Validation & Reporting**: Using SQL, Excel, and data cleaning methods to ensure accuracy and consistency
+- **Project Coordination**: Documenting processes, tracking deliverables, and collaborating across QA, development, and operations teams
+- **Continuous Improvement**: Identifying inefficiencies and implementing solutions to enhance productivity and product quality
+- **Test Case Design & Execution**: Creating structured test plans for various applications  
+- **Bug Tracking & Reporting**: Using **JIRA** to log and manage defects  
+- **API Testing Basics**: Validating REST APIs with **Postman**  
+- **Agile Testing**: Experience working in Agile/Scrum environments  
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -22,11 +22,11 @@
 🚀 **Skills & Tools**  
 
 💻 **Testing Tools:** JIRA | Postman  
-🔹 **Testing Skills:** Manual Testing | Regression Testing | User Acceptance Testing | Black Box Testing | Functional Testing
-🔹 **Basic Programming:** HTML | CSS | Python | SQL  
-🔹 **Quality Assurance Models:** Agile | Waterfall | SDLC  
-🔹**Databases:** MySQL  
-🔹 **Professional Skills:** Analytical Thinking | Problem-Solving | Time Management  
+- **Testing Skills:** Manual Testing | Regression Testing | User Acceptance Testing | Black Box Testing | Functional Testing
+- **Basic Programming:** HTML | CSS | Python | SQL
+- **Quality Assurance Models:** Agile | Waterfall | SDLC
+- **Databases:** MySQL
+- **Professional Skills:** Analytical Thinking | Problem-Solving | Time Management  
 
 **Professional Skills**
 Analytical Thinking | Data Accuracy | Process Improvement | Communication | Time Management | Collaboration
