@@ -26,10 +26,7 @@
 - **Basic Programming:** HTML | CSS | Python | SQL
 - **Quality Assurance Models:** Agile | Waterfall | SDLC
 - **Databases:** MySQL
-- **Professional Skills:** Analytical Thinking | Problem-Solving | Time Management  
-
-**Professional Skills**
-Analytical Thinking | Data Accuracy | Process Improvement | Communication | Time Management | Collaboration
+- **Professional Skills:** Analytical Thinking | Problem-Solving | Time Management | Data Accuracy | Process Improvements | Collaboration | Communication
 
 📓 **What I'm Learning**
 
