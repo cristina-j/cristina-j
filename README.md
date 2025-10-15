@@ -3,16 +3,18 @@
 
 **Detail-oriented and dynamic QA Analyst** with experience in **manual testing, defect management, and quality control**. 
 
-🌱 Currently enhancing my skills through the **QA Engineering Bootcamp at TripleTen**, with a focus on software testing methodologies, bug tracking, and automation fundamentals. Passionate about ensuring software reliability and optimizing the user experience.  
+🌱 Currently enhancing my technical and analytical skills through the QA Engineering Bootcamp at TripleTen and the Wake Tech Data Analytics for Business Professionals course, bridging quality assurance, operations, and data analytics.
 
 🔹 **What I Do**  
 
-✔ **Manual Testing**: Functional, Regression, Black Box, and UAT Testing  
+✔ **Quality & Process Assurance**: Functional, Regression, and UAT Testing with a focus on workflow optimization
+✔ **Data Validation & Reporting**: Using SQL, Excel, and data cleaning methods to ensure accuracy and consistency
+✔ **Project Coordination**: Documenting processes, tracking deliverables, and collaborating across QA, development, and operations teams
+✔ **Continuous Improvement**: Identifying inefficiencies and implementing solutions to enhance productivity and product quality
 ✔ **Test Case Design & Execution**: Creating structured test plans for various applications  
 ✔ **Bug Tracking & Reporting**: Using **JIRA** to log and manage defects  
 ✔ **API Testing Basics**: Validating REST APIs with **Postman**  
 ✔ **Agile Testing**: Experience working in Agile/Scrum environments  
-✔ **Cross-Browser Testing**: Ensuring compatibility across different platforms  
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -26,13 +28,16 @@
 🔹**Databases:** MySQL  
 🔹 **Professional Skills:** Analytical Thinking | Problem-Solving | Time Management  
 
-📓**What I'm Learning in My QA Bootcamp**  
-- Writing detailed **test cases and bug reports**  
-- Expanding knowledge of **API testing using Postman**  
-- Exploring **test automation fundamentals**  
-- Enhancing problem-solving skills for debugging software issues
+**Professional Skills**
+Analytical Thinking | Data Accuracy | Process Improvement | Communication | Time Management | Collaboration
 
-**Excited to grow in the QA field and contribute to high-quality software!** 
+📓 **What I'm Learning**
+• Writing structured test cases and data validation queries
+• Applying analytics to assess process performance and reporting accuracy
+• Exploring automation and scripting fundamentals
+• Building SQL projects to demonstrate QA + data integration
+
+🚀 Excited to grow in operations, quality assurance, and data analytics—bridging technical precision with business efficiency.
 
 📫 **Connect with Me**  
 📩 Email: cristinajohn60@gmail.com  
