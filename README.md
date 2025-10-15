@@ -35,7 +35,7 @@
   - Exploring automation and scripting fundamentals
   - Building SQL projects to demonstrate QA + data integration
 
-🚀 Excited to grow in operations, quality assurance, and data analytics—bridging technical precision with business efficiency.
+🚀 Excited to grow in operations, quality assurance, and data analytics, bridging technical precision with business efficiency.
 
 📫 **Connect with Me**  
 📩 Email: cristinajohn60@gmail.com  
