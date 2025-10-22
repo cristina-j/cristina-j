@@ -17,6 +17,8 @@ Technical Skills:
 ## Featured Projects 
 [E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
 
+[Sauce Demo Login Flow](https://github.com/cristina-j/Sauce-Demo-Login-Flow)
+
 ## Let's Connect! 
 
 [LinkedIn](https://linkedin.com/in/cristinajohn)
