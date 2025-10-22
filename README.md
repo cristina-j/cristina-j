@@ -15,7 +15,7 @@ Technical Skills:
 - Jira | Google Sheets | Data analysis
 
 ## Featured Projects 
-![E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
+[E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
 
 ## Let's Connect! 
 
