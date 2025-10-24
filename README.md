@@ -17,7 +17,7 @@ Technical Skills:
 ## Featured Projects 
 [E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
 
-[Dress for Success Client Survey Analysis]([https://github.com/cristina-j/Sauce-Demo-Login-Flow](https://github.com/cristina-j/Dress-for-Success-Client-Survey-Analysis])
+[Dress for Success Client Survey Analysis](https://github.com/cristina-j/Dress-for-Success-Client-Survey-Analysis)
 
 ## Let's Connect! 
 
