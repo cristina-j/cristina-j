@@ -21,6 +21,8 @@ Technical Skills:
 
 [Employee Mental Health and Well-Being Analysis](https://github.com/cristina-j/Mental-Health-Work-Environment-Analysis)
 
+[Sales and Customer Performance Analysis](https://github.com/cristina-j/Sales-and-Customer-Performance-Analysis)
+
 ## Let's Connect! 
 
 [LinkedIn](https://linkedin.com/in/cristinajohn)
