@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-## 👋🏿 Hi, I'm Cristina John – QA Analyst | Transitioning into Data Analytics | Tableau • SQL • Excel • Test Automation in Progress
+## 👋🏿 Hi, I'm Cristina John — Data Analyst with a QA Background | Tableau • SQL • Excel
 
+One of the biggest lessons I took from QA is the importance of asking the right questions before diving into the work.
 
-I'm a QA Analyst transitioning into Data Analytics, blending my experience in quality assurance with data-driven tools like SQL, Excel and Tableau. My background in QA has trained me to spot inconsistencies, validate large datasets, and prioritize accuracy which are skills that directly translate to effective data analysis. 
+In QA, it’s not effective to start testing a feature without understanding the expected outcome, edge cases, and success criteria. Asking questions upfront helps avoid rework, unclear results, and misaligned expectations later on.
 
-From writing test cases to verifying data integrity across complex systems, I've developed a strong analytical mindset that fuels my ability to generate clean, reliable insights. Now, I'm expanding that foundation through hands-on analytics projects that showcase not just what data says but whether it's trustworthy enough to act on.
-
+I carry that same mindset into data analysis. Before writing queries or building dashboards, I focus on understanding the business question, what decisions the data is meant to support, and what “success” actually looks like. This allows me to analyze data with intention and deliver insights that are clear, relevant, and actionable.
 
 Technical Skills: 
 - QA Testing (Manual + Exploratory)
