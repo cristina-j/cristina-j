@@ -19,6 +19,8 @@ Technical Skills:
 
 [Dress for Success Client Survey Analysis](https://github.com/cristina-j/Dress-for-Success-Client-Survey-Analysis)
 
+[Employee Mental Health and Well-Being Analysis](https://github.com/cristina-j/Mental-Health-Work-Environment-Analysis)
+
 ## Let's Connect! 
 
 [LinkedIn](https://linkedin.com/in/cristinajohn)
