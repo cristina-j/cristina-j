@@ -17,8 +17,6 @@ Technical Skills:
 ## Featured Projects 
 [E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
 
-[Dress for Success Client Survey Analysis](https://github.com/cristina-j/Dress-for-Success-Client-Survey-Analysis)
-
 [Employee Mental Health and Well-Being Analysis](https://github.com/cristina-j/Mental-Health-Work-Environment-Analysis)
 
 [Sales and Customer Performance Analysis](https://github.com/cristina-j/Sales-and-Customer-Performance-Analysis)
