@@ -17,9 +17,9 @@ Technical Skills:
 ## Featured Projects 
 [E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
 
-[Employee Mental Health and Well-Being Analysis](https://github.com/cristina-j/Mental-Health-Work-Environment-Analysis)
+[People Analytics: Workforce Mental Health Risk & Performance Analysis](https://github.com/cristina-j/Mental-Health-Work-Environment-Analysis)
 
-[Sales and Customer Performance Analysis](https://github.com/cristina-j/Sales-and-Customer-Performance-Analysis)
+[Retail Sales Performance and Customer Behavior Analysis](https://github.com/cristina-j/Sales-and-Customer-Performance-Analysis)
 
 ## Let's Connect! 
 
