@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## 👋🏿 Hi, I'm Cristina John 
-### Business Analyst | QA & Operations Analyst 
+#### Business Analyst | QA & Operations Analyst 
 
 I am a Business Analyst focused on Operational Excellence and Data Integrity. I specialize in identifying business bottlenecks, gathering technical requirements, and building frameworks that allow departments to scale. With a strong foundation in Manual QA, I ensure that every operational improvement is backed by rigorous validation and high-quality data.
 
