@@ -15,7 +15,9 @@ Before writing queries or building dashboards, I focus on understanding the busi
 
 ## Technical Skills: 
 **Business Analysis**: Requirements Gathering, Stakeholder Management, BRDs, User Stories & Acceptance Criteria, Process Mapping
+
 **Tools**: Microsoft Excel, SQL, Tableau, Lucidchart
+
 **Methodologies**: Process Improvements, Agile, UAT
 
 ## Featured Projects 
