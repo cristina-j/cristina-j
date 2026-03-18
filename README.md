@@ -5,9 +5,7 @@
 
 I am a Business Analyst focused on Operational Excellence and Data Integrity. I specialize in identifying business bottlenecks, gathering technical requirements, and building frameworks that allow departments to scale. With a strong foundation in Manual QA, I ensure that every operational improvement is backed by rigorous validation and high-quality data.
 
-One of the biggest lessons I took from QA is the importance of asking the right questions before diving into the work.
-
-In QA, I learned that testing a feature without a deep understanding of the expected outcome, edge cases, and success criteria is a recipe for rework. I believe that asking the right questions upfront is the only way to avoid misaligned expectations later on.
+One of the biggest lessons I took from QA is the importance of asking the right questions before diving into the work. In QA, I learned that testing a feature without a deep understanding of the expected outcome, edge cases, and success criteria is a recipe for rework. I believe that asking the right questions upfront is the only way to avoid misaligned expectations later on.
 
 I carry that same mindset into Business Analysis and Operations. 
 
@@ -18,7 +16,7 @@ Before writing queries or building dashboards, I focus on understanding the busi
 
 **Tools**: Microsoft Excel, SQL, Tableau, Lucidchart
 
-**Methodologies**: Process Improvements, Agile, UAT
+**Methodologies**: Process Improvements, Agile, UAT, Data Validation
 
 ## Featured Projects 
 [E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
