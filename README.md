@@ -1,18 +1,22 @@
 # 💫 About Me:
 
-## 👋🏿 Hi, I'm Cristina John — Data Analyst with a QA Background | Tableau • SQL • Excel
+## 👋🏿 Hi, I'm Cristina John 
+### Business Analyst | QA & Operations Analyst 
+
+I am a Business Analyst focused on Operational Excellence and Data Integrity. I specialize in identifying business bottlenecks, gathering technical requirements, and building frameworks that allow departments to scale. With a strong foundation in Manual QA, I ensure that every operational improvement is backed by rigorous validation and high-quality data.
 
 One of the biggest lessons I took from QA is the importance of asking the right questions before diving into the work.
 
-In QA, it’s not effective to start testing a feature without understanding the expected outcome, edge cases, and success criteria. Asking questions upfront helps avoid rework, unclear results, and misaligned expectations later on.
+In QA, I learned that testing a feature without a deep understanding of the expected outcome, edge cases, and success criteria is a recipe for rework. I believe that asking the right questions upfront is the only way to avoid misaligned expectations later on.
 
-I carry that same mindset into data analysis. Before writing queries or building dashboards, I focus on understanding the business question, what decisions the data is meant to support, and what “success” actually looks like. This allows me to analyze data with intention and deliver insights that are clear, relevant, and actionable.
+I carry that same mindset into Business Analysis and Operations. 
 
-Technical Skills: 
-- QA Testing (Manual + Exploratory)
-- Python | SQL | Excel | Tableau
-- Selenium | Pytest (QA Automation – in progress)
-- Jira | Google Sheets | Data analysis
+Before writing queries or building dashboards, I focus on understanding the business question, what decisions the data is meant to support, and what “success” actually looks like. This allows me to analyze data with intention and deliver insights that are clear, relevant, and actionable.
+
+## Technical Skills: 
+**Business Analysis**: Requirements Gathering, Stakeholder Management, BRDs, User Stories & Acceptance Criteria, Process Mapping
+**Tools**: Microsoft Excel, SQL, Tableau, Lucidchart
+**Methodologies**: Process Improvements, Agile, UAT
 
 ## Featured Projects 
 [E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
