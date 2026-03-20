@@ -12,11 +12,11 @@ I carry that same mindset into Business Analysis and Operations.
 Before writing queries or building dashboards, I focus on understanding the business question, what decisions the data is meant to support, and what “success” actually looks like. This allows me to analyze data with intention and deliver insights that are clear, relevant, and actionable.
 
 ## Technical Skills: 
-**Business Analysis**: Requirements Gathering, Stakeholder Management, BRDs, User Stories & Acceptance Criteria, Process Mapping
+**Business Analysis**: Requirements Gathering, Stakeholder Management, BRDs, User Stories & Acceptance Criteria, Process Mapping, Gap Analysis, Requirements Elicitation, Stakeholder Management, Workflow Optimization, Process Improvement
 
-**Tools**: Microsoft Excel, SQL, Tableau, Lucidchart
+**Methodologies**: Agile, UAT, Regression Testing, Functional Testing, Manual Testing, Root Cause Analysis
 
-**Methodologies**: Process Improvements, Agile, UAT, Data Validation
+**Tools**: Microsoft Excel, SQL, Tableau, Jira, Microsoft Copilot, Lucidchart
 
 ## Featured Projects 
 [E-Commerce Bookstore Sales Analysis](https://github.com/cristina-j/E-Commerce-Bookstore-Sales-Analysis)
